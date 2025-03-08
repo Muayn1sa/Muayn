@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": " https://muayn1sa.github.io/Muayn/static/css/main.4f29a254.css",
-    "main.js": " https://muayn1sa.github.io/Muayn/static/js/main.38d4259f.js",
+    "main.js": " https://muayn1sa.github.io/Muayn/static/js/main.608bc827.js",
     "static/js/145.27483dba.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/145.27483dba.chunk.js",
     "static/js/935.1bb10de8.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/935.1bb10de8.chunk.js",
     "static/js/922.72893b4f.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/922.72893b4f.chunk.js",
     "static/js/739.7024616f.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/739.7024616f.chunk.js",
-    "static/js/210.1ad3322b.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/210.1ad3322b.chunk.js",
+    "static/js/210.0c000efe.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/210.0c000efe.chunk.js",
     "static/css/902.508631bc.chunk.css": " https://muayn1sa.github.io/Muayn/static/css/902.508631bc.chunk.css",
     "static/js/902.ff314ab9.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/902.ff314ab9.chunk.js",
     "static/js/10.45f03b0a.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/10.45f03b0a.chunk.js",
@@ -30,12 +30,12 @@
     "static/js/90.ca3ec0a3.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/90.ca3ec0a3.chunk.js",
     "index.html": " https://muayn1sa.github.io/Muayn/index.html",
     "main.4f29a254.css.map": " https://muayn1sa.github.io/Muayn/static/css/main.4f29a254.css.map",
-    "main.38d4259f.js.map": " https://muayn1sa.github.io/Muayn/static/js/main.38d4259f.js.map",
+    "main.608bc827.js.map": " https://muayn1sa.github.io/Muayn/static/js/main.608bc827.js.map",
     "145.27483dba.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/145.27483dba.chunk.js.map",
     "935.1bb10de8.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/935.1bb10de8.chunk.js.map",
     "922.72893b4f.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/922.72893b4f.chunk.js.map",
     "739.7024616f.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/739.7024616f.chunk.js.map",
-    "210.1ad3322b.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/210.1ad3322b.chunk.js.map",
+    "210.0c000efe.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/210.0c000efe.chunk.js.map",
     "902.508631bc.chunk.css.map": " https://muayn1sa.github.io/Muayn/static/css/902.508631bc.chunk.css.map",
     "902.ff314ab9.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/902.ff314ab9.chunk.js.map",
     "10.45f03b0a.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/10.45f03b0a.chunk.js.map",
@@ -59,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.4f29a254.css",
-    "static/js/main.38d4259f.js"
+    "static/js/main.608bc827.js"
   ]
 }
