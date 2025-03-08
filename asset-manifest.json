@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Muayn/static/css/main.9ddfc040.css",
-    "main.js": "/Muayn/static/js/main.30559441.js",
-    "static/js/977.e89ce0f7.chunk.js": "/Muayn/static/js/977.e89ce0f7.chunk.js",
-    "static/js/732.7c9577d0.chunk.js": "/Muayn/static/js/732.7c9577d0.chunk.js",
-    "index.html": "/Muayn/index.html",
-    "main.9ddfc040.css.map": "/Muayn/static/css/main.9ddfc040.css.map",
-    "main.30559441.js.map": "/Muayn/static/js/main.30559441.js.map",
-    "732.7c9577d0.chunk.js.map": "/Muayn/static/js/732.7c9577d0.chunk.js.map"
+    "main.css": " https://muayn1sa.github.io/Muayn/static/css/main.9ddfc040.css",
+    "main.js": " https://muayn1sa.github.io/Muayn/static/js/main.ed2ec5b3.js",
+    "static/js/977.e89ce0f7.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/977.e89ce0f7.chunk.js",
+    "static/js/732.7c9577d0.chunk.js": " https://muayn1sa.github.io/Muayn/static/js/732.7c9577d0.chunk.js",
+    "index.html": " https://muayn1sa.github.io/Muayn/index.html",
+    "main.9ddfc040.css.map": " https://muayn1sa.github.io/Muayn/static/css/main.9ddfc040.css.map",
+    "main.ed2ec5b3.js.map": " https://muayn1sa.github.io/Muayn/static/js/main.ed2ec5b3.js.map",
+    "732.7c9577d0.chunk.js.map": " https://muayn1sa.github.io/Muayn/static/js/732.7c9577d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ddfc040.css",
-    "static/js/main.30559441.js"
+    "static/js/main.ed2ec5b3.js"
   ]
 }
