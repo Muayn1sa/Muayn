@@ -1,0 +1,126 @@
+.profile-container {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    background-color: rgba(32, 33, 35, 0.5);
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-title {
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+  
+  .profile-paper {
+    padding: 24px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    color: white;
+  }
+  
+  .profile-field {
+    margin-bottom: 16px;
+    text-align: right;
+    font-weight: 500;
+    font-size: 1rem;
+    color: white;
+  }
+  
+  .profile-label {
+    font-weight: 600;
+    margin-left: 8px;
+  }
+  
+  .profile-button {
+    background-color: #00A783;
+    color: white;
+    border-radius: 12px;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 500;
+    width: 100%;
+    transition: all 0.3s ease;
+  }
+  
+  .profile-button:hover {
+    background-color: #009975;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transform: translateY(-1px);
+  }
+  
+  .profile-dialog {
+    background-color: rgba(32, 33, 35, 0.95);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  }
+  
+  .profile-input {
+    margin-bottom: 20px;
+  }
+  
+  .profile-input input {
+    color: white;
+    background-color: rgba(32, 33, 35, 0.8);
+    padding: 14px;
+    border-radius: 8px;
+    text-align: right;
+    direction: rtl;
+  }
+  
+  .profile-input label {
+    color: rgba(255, 255, 255, 0.7);
+    right: 16px;
+    font-size: 0.95rem;
+  }
+  
+  .profile-input:focus-within label {
+    color: #00A783;
+  }
+  
+  .profile-multiline textarea {
+    min-height: 80px;
+  }
+  
+  .profile-action-button {
+    margin: 0 8px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 500;
+  }
+  
+  .profile-action-button.active {
+    background-color: #00A783;
+    color: white;
+  }
+  
+  .profile-action-button:not(.active) {
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .profile-dialog-title {
+    text-align: right;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 16px 24px;
+  }
+  
+  .profile-dialog-content {
+    padding: 24px;
+  }
+  
+  .profile-dialog-actions {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 16px 24px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .profile-snackbar {
+    direction: rtl;
+  }
