@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Muayn1sa/Muayn/static/css/main.9ddfc040.css",
-    "main.js": "/Muayn1sa/Muayn/static/js/main.57101ee7.js",
-    "static/js/977.e89ce0f7.chunk.js": "/Muayn1sa/Muayn/static/js/977.e89ce0f7.chunk.js",
-    "static/js/732.7c9577d0.chunk.js": "/Muayn1sa/Muayn/static/js/732.7c9577d0.chunk.js",
-    "index.html": "/Muayn1sa/Muayn/index.html",
-    "main.9ddfc040.css.map": "/Muayn1sa/Muayn/static/css/main.9ddfc040.css.map",
-    "main.57101ee7.js.map": "/Muayn1sa/Muayn/static/js/main.57101ee7.js.map",
-    "732.7c9577d0.chunk.js.map": "/Muayn1sa/Muayn/static/js/732.7c9577d0.chunk.js.map"
+    "main.css": "/muayn/static/css/main.9ddfc040.css",
+    "main.js": "/muayn/static/js/main.2f74c833.js",
+    "static/js/977.e89ce0f7.chunk.js": "/muayn/static/js/977.e89ce0f7.chunk.js",
+    "static/js/732.7c9577d0.chunk.js": "/muayn/static/js/732.7c9577d0.chunk.js",
+    "index.html": "/muayn/index.html",
+    "main.9ddfc040.css.map": "/muayn/static/css/main.9ddfc040.css.map",
+    "main.2f74c833.js.map": "/muayn/static/js/main.2f74c833.js.map",
+    "732.7c9577d0.chunk.js.map": "/muayn/static/js/732.7c9577d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ddfc040.css",
-    "static/js/main.57101ee7.js"
+    "static/js/main.2f74c833.js"
   ]
 }
